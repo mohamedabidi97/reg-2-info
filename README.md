@@ -1,4 +1,6 @@
-# Reg2info
+<div align="center">
+  <img src="https://github.com/mohamedabidi97/reg-2-info/blob/main/src/reg2info_logo.png?raw=true"><br>
+</div>
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)  ![Python](https://img.shields.io/badge/Language-Python-green) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://opensource.org/licenses/MIT) 
 
@@ -56,3 +58,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
